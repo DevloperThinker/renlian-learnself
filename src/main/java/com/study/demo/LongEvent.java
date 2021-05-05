@@ -4,7 +4,7 @@ public class LongEvent {
 
     private Long value;
 
-    public void setValue(Long value) {
+    public void set(Long value) {
         this.value = value;
     }
 
